@@ -20,5 +20,7 @@ This can be written as a relationship of the form (Total Cards)%(Number of Playe
 
 During the play of the game each player rolls 2 dice to advance their characters around the board. Once their character enters a room, they can make a "**Suggestion**". By doing this they move the weapon AND the character to that room (This includes player characters)
 
+To win the game you must make an accusation. This is the same as a Suggestion except you do not have to be in the room. If you are wrong about your accusation, you are out of the game and can only show players your cards to disprove their suggestions.
+
 We are referencing: https://www.officialgamerules.org/clue 
 
